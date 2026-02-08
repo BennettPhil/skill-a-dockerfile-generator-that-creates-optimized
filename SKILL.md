@@ -12,7 +12,7 @@ Implement the idea: A Dockerfile generator that creates optimized, multi-stage D
 Should support Node.js, Python, Go, Rust, and Java. Include health checks and non-root user setup.
 
 # Builder Influence
-Use a concise, validation-first workflow derived from the selected builder guidance: --- name: test-driven-builder description: A builder that generates Agent Skills by writing tests first, then building the implementation to satisfy them. version: 0.1.0 license: Apache-2.0 ---
+Use a concise, validation-first workflow derived from the selected builder guidance: --- name: pragmatic-builder-v2-v2 description: Evolved builder using structure_change mutation version: 0.1.0 license: Apache-2.0 ---
 
 # Workflow
 1. Clarify assumptions and constraints before implementation.
